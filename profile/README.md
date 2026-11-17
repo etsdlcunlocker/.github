@@ -6,7 +6,7 @@ A simple tool designed to unlock, activate and manage DLCs for Euro Truck Simula
 
 ## 🔗 Latest Release
 
-- **💾 Version 5005**: [Releases Page]()
+- **💾 Version 5005**: [Releases Page](https://github.com/etsdlcunlocker/.github/releases/)
   
 ---
 
